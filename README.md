@@ -4,11 +4,10 @@
 
 
 ### [Project](https://hangz-nju-cuhk.github.io/projects/StyleSwap) | [Paper]() | [Demo](https://www.youtube.com/watch?v=bsHhzU8VSLo)
----
 
-<img src='./misc/styleswap-teaser.png' width=800>
+In this work, we introduce a concise and effective framework named **StyleSwap**. Our core idea is to leverage a style-based generator to empower high-fidelity and robust face swapping, thus the generator’s advantage can be adopted for optimizing identity similarity. We identify that with only minimal modifications, a StyleGAN2 architecture can successfully handle the desired information from both source and target. 
 
+<img src='./misc/StyleSwap.png' width=880>
 
-In this work, we introduce a concise and effective framework named StyleSwap. Our core idea is to leverage a style-based generator to empower high-fidelity and robust face swapping, thus the generator’s advantage can be adopted for optimizing identity similarity. We identify that with only minimal modifications, a StyleGAN2 architecture can successfully handle the desired information from both source and target. 
 ---
 Code will be released soon
