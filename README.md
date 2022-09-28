@@ -10,5 +10,17 @@ In this work, we introduce a concise and effective framework named **StyleSwap**
 
 <img src='./misc/StyleSwap.png' width=880>
 
----
+## Code 
 Code will be released soon
+
+## Citation
+
+If you find our work useful, please cite:
+```
+@inproceedings{xu2022styleswap,
+  title = {StyleSwap: Style-Based Generator Empowers Robust Face Swapping},
+  author = {Xu, Zhiliang and Zhou, Hang and Hong, Zhibin and Liu, Ziwei and Liu, Jiaming and Guo, Zhizhi and Han, Junyu and Liu, Jingtuo and Ding, Errui and Wang, Jingdong},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  year = {2022}
+}
+```
