@@ -11,7 +11,7 @@ In this work, we introduce a concise and effective framework named **StyleSwap**
 <img src='./misc/StyleSwap.png' width=880>
 
 ## Code 
-Code will be released soon
+Code will be released soon.
 
 ## Citation
 
